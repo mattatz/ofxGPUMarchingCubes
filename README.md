@@ -1,7 +1,7 @@
 ofxGPUMarchingCubes
 =====================
 
-GPU marching cubes using a compute shader.
+GPU marching cubes implementation for openFrameworks using a compute shader.
 
 <img src="https://raw.githubusercontent.com/mattatz/ofxGPUMarchingCubes/master/captures/Demo.gif">
 
